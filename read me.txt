@@ -1,0 +1,5 @@
+Ip Finder works if the environment path is set and you are connected to the internet.
+You need to keep the IP Finder directory within a drive
+in which read and write protections are not applicable or invoked by the user.
+Otherwise IP Finder will not work.
+Do not remove any of the image files or otherfiles present .If removed may cause malfunctioning of the software.

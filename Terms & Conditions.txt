@@ -1,0 +1,51 @@
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THIS PRODUCT.
+This End User License Agreement for IP Finder (“Software”) is a legal agreement between you
+(either an individual or an entity) and IP Finder and its suppliers and licensors. 
+The Software may include on-line services using wire/wireless networks and any combination of 
+such products and Alpha, Beta, trial, pre-release, free, pay and premium versions of the products. 
+By using the Software,you agree to be bound by the terms of this License Agreement.
+IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE AGREEMENT,  DO NOT USE THE SOFTWARE.
+Using this software implies that you have read this license agreement, understand it,
+and agree to be bound by its terms and conditions.
+
+1. GRANT OF LICENSE.
+a) This program is free for non-commercial use and has no functional restrictions.
+b) You may use the Software for your personal use at home or for use in educational, charity or humanitarian organisations.
+c) You agree that you shall only use the Software and Documentation in a manner that complies with all applicable laws 
+in the jurisdictions in which you use the Software and Documentation, including, but not limited to, 
+applicable restrictions concerning copyright and other intellectual property rights.
+d) You may not use the Software in an attempt to, or in conjunction with, any device, program or 
+service designed to circumvent technological measures employed to control access to, or the rights in,
+a content file or other work protected by the copyright laws of any jurisdiction.
+e) You may not distribute portable version of the Software.
+
+
+2. AUTOMATIC COMMUNICATIONS FEATURES.
+The Software consists of interactive Internet applications that perform a variety of communications over 
+the Internet as part of their normal operation. The Software automatically communicates with the Internet.
+You are responsible for any telecommunications or other connectivity charges incurred through use of the Software.
+
+4. RIGHTS.
+Title, ownership, rights, and intellectual property rights in and to the Software and Documentation shall remain in IP Finder. 
+The Software and the Services are protected by the copyright laws of international copyright treaties. 
+Title, ownership, rights, and intellectual property rights in and to the content accessed through the Software
+and the Services (“Content”) including the content contained in the Software media demonstration files, 
+shall be retained by the applicable Content owner and may be protected by applicable copyright or other law. 
+This license gives you no rights to such Content.
+
+5. LIABILITY.
+THIS SOFTWARE IS DISTRIBUTED “AS IS” AND WITHOUT WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES 
+WHETHER EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. 
+THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS 
+WHILE USING OR MISUSING THIS SOFTWARE.
+
+6. TERMINATION.
+This License Agreement will automatically terminate if you fail to comply with any term hereof. 
+No notice shall be required from IP Finder to effect such termination. 
+You may also terminate this License Agreement at any time by notifying IP Finder in writing of termination. 
+Upon any termination of this License Agreement, you shall immediately discontinue use of the Software, 
+or certify destruction of, all full or partial copies of the Software, documentation and related materials 
+provided by IP Finder. 
+Your obligation to pay accrued charges and fees shall survive any termination of this License Agreement.
+IP Finder
+© 2015 IP Finder. All rights reserved.
